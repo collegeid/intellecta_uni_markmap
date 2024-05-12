@@ -1,11 +1,9 @@
 ---
 title: Intellecta Uni by Orion
-markmap:
-  colorFreezeLevel: 2
 ---
 
 
-# Febriansah Dirgantara
+# Phase 1
 - **Tambah Mahasiswa**:
     - Memungkinkan untuk menambahkan data mahasiswa baru ke dalam sistem, termasuk nama, NIM, alamat, dan informasi lainnya.
 - **Hapus Mahasiswa**: 
@@ -15,7 +13,7 @@ markmap:
 - **Perbarui Informasi Mahasiswa**: 
     - Memungkinkan untuk memperbarui informasi mahasiswa seperti alamat, nomor telepon, atau data lainnya.
 
-# Dimas Brotowali
+# Phase 2
 - **Tampilkan Daftar Mahasiswa**: 
      - Menampilkan daftar semua mahasiswa yang terdaftar dalam sistem, baik secara keseluruhan atau berdasarkan kriteria tertentu (misalnya, berdasarkan program studi atau angkatan).
 - **Hitung Rata-rata IPK**: 
@@ -25,7 +23,7 @@ markmap:
 - **Pengelolaan Kelas/Kuliah**: 
      - Memungkinkan untuk mengelola informasi tentang kelas yang diambil oleh mahasiswa, termasuk jadwal kuliah, dosen pengajar, dan ruang kuliah.
 
-# Syafril Yusup Maulana
+# Phase 3
 - **Pengelolaan Nilai**: 
      - Memungkinkan untuk mengelola nilai mahasiswa dalam setiap mata kuliah yang diambil, termasuk pemberian nilai, perhitungan rata-rata nilai, dan penentuan status kelulusan.
 - **Pengingat Jadwal**:
