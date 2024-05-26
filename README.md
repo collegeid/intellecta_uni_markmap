@@ -24,7 +24,7 @@ The Student Management System is a project aimed at assisting in managing studen
 
 ## Flowchart
 
-![Flowchart](flowchart_ongoing.png)
+![Flowchart](flow_ongoing.png)
 
 To view the system's flowchart in detail, please [Preview Here](https://cacoo.com/diagrams/aoZuYT59UtRwv4Go/97711).
 
