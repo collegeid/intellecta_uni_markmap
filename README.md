@@ -1,45 +1,32 @@
 ---
-title: Intellecta Uni by Orion
+title: Intellecta Uni by Orion Team
 ---
 
+# Student Management System
 
-# Phase 1
-- **Tambah Mahasiswa**:
-    - Memungkinkan untuk menambahkan data mahasiswa baru ke dalam sistem, termasuk nama, NIM, alamat, dan informasi lainnya.
-- **Hapus Mahasiswa**: 
-    - Memungkinkan untuk menghapus data mahasiswa dari sistem berdasarkan NIM atau nama.
-- **Cari Mahasiswa**: 
-    - Memungkinkan untuk mencari mahasiswa berdasarkan NIM, nama, atau kriteria lainnya.
-- **Perbarui Informasi Mahasiswa**: 
-    - Memungkinkan untuk memperbarui informasi mahasiswa seperti alamat, nomor telepon, atau data lainnya.
+The Student Management System is a project aimed at assisting in managing student data in an educational institution. This project is built using the C programming language.
 
-# Phase 2
-- **Tampilkan Daftar Mahasiswa**: 
-     - Menampilkan daftar semua mahasiswa yang terdaftar dalam sistem, baik secara keseluruhan atau berdasarkan kriteria tertentu (misalnya, berdasarkan program studi atau angkatan).
-- **Hitung Rata-rata IPK**: 
-     - Menghitung rata-rata IPK dari semua mahasiswa atau dari sekelompok mahasiswa tertentu.
-- **Tampilkan Informasi Detail Mahasiswa**:
-     - Menampilkan informasi detail tentang seorang mahasiswa, termasuk riwayat akademik, jadwal kuliah, dan lain-lain.
-- **Pengelolaan Kelas/Kuliah**: 
-     - Memungkinkan untuk mengelola informasi tentang kelas yang diambil oleh mahasiswa, termasuk jadwal kuliah, dosen pengajar, dan ruang kuliah.
+## Features
 
-# Phase 3
-- **Pengelolaan Nilai**: 
-     - Memungkinkan untuk mengelola nilai mahasiswa dalam setiap mata kuliah yang diambil, termasuk pemberian nilai, perhitungan rata-rata nilai, dan penentuan status kelulusan.
-- **Pengingat Jadwal**:
-     - Memberikan pengingat kepada mahasiswa tentang tenggat waktu pendaftaran, pembayaran uang kuliah, atau jadwal ujian.
-- **Pengelolaan Beasiswa**: 
-     - Memungkinkan untuk mengelola informasi tentang beasiswa yang tersedia, persyaratan, dan penerimaan beasiswa oleh mahasiswa.
-- **Laporan dan Analisis**: 
-     - Memungkinkan untuk menghasilkan laporan dan melakukan analisis data tentang berbagai aspek kinerja akademik mahasiswa, tingkat kelulusan, atau evaluasi program studi.
+### For Users
 
+- **Registration of new students**: New students can register their information in the system.
+- **Academic Records**: Students can view their academic records including midterm exams (UTS), final exams (UAS), assignments (TUGAS), semester GPA, course grades, and cumulative GPA (IPK).
+- **Profile**: Students can access and update their personal profile.
 
+### For Admins
 
+- **Search for students based on various criteria**: Admins can search for students using different filters such as name, ID number, etc.
+- **Management of student personal data**: Admins can manage and update student personal information.
+- **Staff Management**: Admins can manage staff accounts and roles within the system.
+- **Academic Management**: Admins can manage academic-related data such as courses, grades, etc.
+- **User Account Management**: Admins have the authority to manage user accounts, including permissions and access levels.
 
+## Flowchart
 
+![Flowchart](flowchart_ongoing.png)
 
-
-
+To view the system's flowchart in detail, please [Preview Here](https://cacoo.com/diagrams/aoZuYT59UtRwv4Go/97711).
 
 
 
