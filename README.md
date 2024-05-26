@@ -1,5 +1,5 @@
 ---
-title: Intellecta Uni by Orion Team
+Copyright: Intellecta Uni by Orion Team
 ---
 
 # Student Management System
