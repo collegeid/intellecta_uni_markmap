@@ -1,10 +1,14 @@
----
-Copyright: Intellecta Uni by Orion Team
----
-
-# Student Management System
+# Student Management System - Orion'S MS
 
 The Student Management System is a project aimed at assisting in managing student data in an educational institution. This project is built using the C programming language.
+
+
+## Flowchart
+
+![Flowchart](flow_ongoing.png)
+
+To view the system's flowchart in detail, please [Preview Here](https://cacoo.com/diagrams/aoZuYT59UtRwv4Go/97711).
+
 
 ## Features
 
@@ -22,13 +26,9 @@ The Student Management System is a project aimed at assisting in managing studen
 - **Academic Management**: Admins can manage academic-related data such as courses, grades, etc.
 - **User Account Management**: Admins have the authority to manage user accounts, including permissions and access levels.
 
-## Flowchart
-
-![Flowchart](flow_ongoing.png)
-
-To view the system's flowchart in detail, please [Preview Here](https://cacoo.com/diagrams/aoZuYT59UtRwv4Go/97711).
-
-
+--------------------------------------------------------------------------------------------
+Copyright: Intellecta Uni by Orion Team
+--------------------------------------------------------------------------------------------
 
 
 
